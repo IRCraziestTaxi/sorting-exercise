@@ -1,5 +1,5 @@
 # sorting-exercise
-An exercise in sorting a hierarchical list of data.
+An exercise in sorting a hierarchical list of data into a list in which no child element will appear before its parent element.
 
 ## Setup
 To install required dev dependencies to run and build the application, run `npm install`.
